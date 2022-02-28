@@ -1,0 +1,66 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "player-jump",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 2,
+    "events": [],
+    "enableTrsBlending": false,
+    "_duration": 0.016666666666666666,
+    "_keys": [
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "09c5c6b4-ddc8-4b70-99ed-9deb89ab9023@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            }
+          ],
+          "easingMethods": {}
+        }
+      },
+      {
+        "modifiers": [
+          "scale"
+        ],
+        "data": {
+          "keys": 1,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 1.17,
+              "y": 1,
+              "z": 1
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 827114390
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]

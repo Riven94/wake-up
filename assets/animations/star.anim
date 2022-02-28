@@ -1,0 +1,91 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "star",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 0.25,
+    "wrapMode": 2,
+    "events": [],
+    "enableTrsBlending": false,
+    "_duration": 0.5333333333333333,
+    "_keys": [
+      [
+        0,
+        0.08333333333333333,
+        0.13333333333333333,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.4666666666666667,
+        0.5166666666666667
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "a8df60a0-14d8-4748-96ac-4f0e9a58903b@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            },
+            {
+              "__uuid__": "0188d6f1-9712-4b34-b617-6e238e1f8835@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            },
+            {
+              "__uuid__": "212b6901-0690-4dce-9ba4-d82c5d72b538@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            },
+            {
+              "__uuid__": "33cc0b81-7968-4ddf-a07a-11b1fe999560@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            },
+            {
+              "__uuid__": "f108a724-c91e-4d89-b6e4-f06b630b1851@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            },
+            {
+              "__uuid__": "315fb1de-a3c6-42ab-b244-41efbf9378c7@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            },
+            {
+              "__uuid__": "f25958dc-9d34-4439-9a83-4aab52a403a7@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            },
+            {
+              "__uuid__": "9c39b06b-9c10-4699-994b-14c8123eb493@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            },
+            {
+              "__uuid__": "c55385a1-a021-462e-9a3e-aaab8dd1a2b1@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            },
+            {
+              "__uuid__": "a8df60a0-14d8-4748-96ac-4f0e9a58903b@f9941",
+              "__expectedType__": "cc.SpriteFrame"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 804512147
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]
